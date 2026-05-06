@@ -1,35 +1,31 @@
 # Notebook-LM---Dados
-estudos-analise-dados
+🧠 Caderno Temático Inteligente: O Guia do Profissional de Dados: Excel, SQL, Power BI e Estatística
 
+🎯 1. Contexto e Objetivos
 
-📝 Descrição
-Este repositório contém materiais de estudo e documentação técnica organizados com o auxílio do NotebookLM. O objetivo deste projeto é consolidar conhecimentos em Análise e Desenvolvimento de Sistemas, com foco em estruturação de dados e lógica de programação.
+Este repositório é o resultado de um estudo dirigido utilizando o NotebookLM como ferramenta de síntese e análise. O tema central é Guia do Profissional de Dados, escolhido para fortalecer minha base técnica na transição de carreira da área da saúde para a tecnologia.
+Meus objetivos com este material são:Consolidar conceitos teóricos de dados aplicados à análise de dados.Criar um fluxo de trabalho eficiente de "IA Assistida" para acelerar o aprendizado em Python e SQL.Desenvolver um material de consulta rápida para futuros projetos de backend.
 
-🚀 Contexto Profissional
-Atualmente, estou realizando uma transição de carreira do setor de saúde para a área de tecnologia e análise de dados. Este repositório reflete meu compromisso com o aprendizado contínuo em:
+📚 2. Curadoria de Fontes 
 
-Backend & Data: Desenvolvimento com Python e consultas SQL.
+Utilizei uma base de dados selecionada para garantir que as respostas da IA fossem fundamentadas em fontes confiáveis. As fontes carregadas no NotebookLM foram:
+1 : Guia de Data Analytics para Iniciantes (Rocketseat): Um passo a passo completo em 6 etapas para ir do zero ao portfólio.
+2 : Data Science Career Roadmap 2026 (K21 Academy): Detalha papéis, salários e habilidades necessárias
+3 : Repositório Institucional da UNIRIO (DATAUNIRIO): Contém bases de dados e manuais práticos em linguagem R e estatística
 
-Visualização: Criação de dashboards e Data Storytelling com Power BI.
+🧠 3. Engenharia de Prompts e "Cicatrizes" O foco desta seção é demonstrar o raciocínio analítico e a capacidade de resolução de problemas (troubleshooting).
 
-📖 Resolução de Problemas: Prática de algoritmos e python inspirada na metodologia da Piscina 42.
+🛠 Refinamento de Prompts 
 
-📂 Organização do Repositório
-docs/: Notas de estudo, resumos e insights exportados do NotebookLM.
+Intenção Prompt Estratégico Testado
+* Contexto de Domínio e Especificidade: Em vez de comandos genéricos, forneça detalhes sobre o cenário do negócio.
+* Definição de Persona/Papel: Instrua a IA sobre quem ela deve ser (ex: "Aja como um analista de marketing focado em causalidade, não apenas correlação").
+* Restrições e Formato de Saída: Especifique o que não deve ser feito (ex: "ignore métricas de vaidade", "não use jargões técnicos") e como os dados devem ser apresentados (ex: JSON Schema, tabelas ou narrativas para executivos).
 
-src/: Scripts e exemplos de código relacionados ao tema estudado.
-
-visuals/: Prints de dashboards ou diagramas gerados durante o processo.
-
-🛠️ Ferramentas Utilizadas
-
-NotebookLM: Para síntese de informações e organização de fontes.
-
-Python/SQL: Linguagens principais aplicadas nos estudos.
-
-Google Docs: Para formatação final dos relatórios exportados.
+🖥️ "A IA conseguiu conectar a teoria com a prática de queries SQL. Gerar Código" Aja como um desenvolvedor backend e transforme este resumo em uma estrutura de classes Python.
+Facilitou a visualização da arquitetura do projeto.
 
 🔗 Links Úteis
 Acesse o Notebook original aqui <https://notebooklm.google.com/notebook/bcb079bd-8215-4568-b407-763008b28a24>
 
-Desenvolvido por Maria Andrade — Estudante de Análise e Desenvolvimento de Sistemas. 
+Desenvolvido por Maria Andrade — Estudante de Análise e Desenvolvimento de Sistemas. 😊
